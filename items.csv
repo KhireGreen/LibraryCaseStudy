@@ -1,0 +1,21 @@
+"itemID";"checkoutID";"bookName";"genre";"author";"quantity";"avaliability";"DepartmentCode"
+1000;1;"book10";"poem";"author10";2;2;88
+1100;1;"book11";"poem";"author11";2;2;88
+1111;1;"book1";"horror";"author1";2;2;22
+1200;1;"book12";"poem";"author12";2;2;88
+1300;1;"book13";"romance";"author13";2;1;55
+1400;1;"book14";"romance";"author14";2;1;55
+1500;1;"book15";"horror";"author15";2;1;22
+1600;1;"book16";"thriller";"author16";2;0;99
+1700;1;"book17";"thriller";"author17";2;0;99
+1800;1;"book18";"horror";"author18";2;1;22
+1900;1;"book19";"romance";"author19";2;1;55
+2000;1;"book20";"drama";"author20";2;2;66
+2222;1;"book2";"non-fiction";"author2";2;2;33
+3333;1;"book3";"fiction";"author3";2;1;44
+4444;1;"book4";"non-fiction";"author4";2;0;33
+5454;1;"book6";"horror";"author6";2;2;22
+5555;1;"book5";"fiction";"author5";2;1;44
+7777;1;"book7";"drama";"author7";2;1;66
+8888;1;"book8";"romance";"author8";2;0;55
+9999;1;"book9";"realistic fiction";"author9";2;0;77

@@ -1,0 +1,13 @@
+"employeeID";"checkoutID";"firstName";"lastName";"role";"phoneNumber";"email";"DepartmentCode"
+7122;1;"Jeff";"Hardy";"Manager";"(860)549-1235";"jhardy@library.com";22
+7133;2;"Lebron";"James";"Manager";"(757)388-9826";"ljames@library.com";33
+7144;3;"Lewis ";"Hamilton";"Administrator";"(803)985-0205";"lhamilton@library.com";44
+7155;4;"Damian";"Lillard";"Administrator";"(918)685-2289";"dlillard@library.com";55
+7188;5;"Rodney";"Mullen";"Librarian";"(860)782-3854";"rmullen@library.com";22
+7199;6;"Tony";"Hawk";"Librarian";"(757)227-7458";"thawk@library.com";55
+7211;7;"James";"Cameron";"Janitor";"(313)860-2277";"jcameron@library.com";66
+7222;9;"Grant";"Cardone";"Owner";"(910)486-7777";"gcardone@library.com";77
+7233;8;"Willy";"Wonka";"Janitor";"(860)546-9933";"wwonka@library.com";33
+7444;10;"Manny";"Khoshbin";"Owner";"(202)238-9754";"mkhoshbin@library.com";44
+7555;11;"Kirk";"Cousins";"Technical Support";"(636)484-3694";"kcousins@library.com";88
+7888;12;"Stefon";"Diggs";"Technical Support";"(222)769-2475";"sdiggs@library.com";99
