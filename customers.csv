@@ -1,0 +1,21 @@
+"memberID";"firstName";"lastName";"phoneNumber";"email";"booksCheckedOut";"currentLateFees";"libraryCardNumber";" checkoutID"
+10100;"Bessie";"Patrick";3338836345;"Bessie.Patrick@google.com";3;0;959514;0
+10200;"Toby";"Fleming";2909200554;"Toby.Fleming@google.com";5;20;41829;0
+10300;"Alma";"Hawkings";2766726646;"Alma.Hawkings@google.com";3;0;565315;0
+10400;"Earl";"Howard";2429323640;"Earl.Howard@google.com";1;0;933778;0
+10500;"Gregg";"Ortiz";8618730341;"Gregg.Ortiz@google.com";1;180;462465;0
+10600;"Amanda";"Carpenter";5922890667;"Amanda.Carpenter@google.com";2;0;639954;0
+10700;"Kellie";"Pearson";3264051546;"Kellie.Pearson@google.com";2;0;263657;0
+10800;"Jimmie";"Barnett";6124565174;"Jimmie.Barnett@google.com";4;240;669123;0
+10900;"Amy";"Young";3166220847;"Amy.Young@google.com";3;0;552844;0
+11000;"Opal";"Shelton";3935907252;"Opal.Shelton@google.com";3;0;577341;0
+11100;"Stanley";"Morris";6619058337;"Stanley.Morris@google.com";2;0;773367;0
+11200;"Seth";"Bryan";8502722219;"Seth.Bryan@google.com";3;63;437450;0
+11300;"Corey";"Chavez";2716339341;"Corey.Chavez@google.com";0;77;126295;0
+11400;"Elisa";"Summers";9833414223;"Elisa.Summers@google.com";5;0;552390;0
+11500;"Ernesto";"Barnes";9403191427;"Ernesto.Barnes@google.com";2;0;569508;0
+11600;"Arlene";"Ryan";3903747288;"Arlene.Ryan@google.com";5;0;854240;0
+11700;"Jeffrey";"Peterson";4507540517;"Jeffrey.Peterson@google.com";2;0;528583;0
+11800;"Pauline";"Pope";8993765181;"Pauline.Pope@google.com";3;0;469080;0
+11900;"Shelley";"Bass";9604239734;"Shelley.Bass@google.com";3;0;25771;0
+12000;"Velma";"Cobb";6185289326;"Velma.Cobb@google.com";4;0;44670;0
